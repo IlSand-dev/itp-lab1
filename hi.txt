@@ -1,3 +1,5 @@
 Hello World!
-I'm in master branch
+I'm in conflict branch
+I want this line in master
+
 
