@@ -2,3 +2,4 @@ Hello World!
 I'm in master branch
 I want this line in master
 Hello from github.com!
+Hello from Nastya!
